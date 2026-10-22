@@ -8,5 +8,5 @@ function updateTimer(){
 
 updateTimer();
 
-setInterval(updateTimer,100)
+setInterval(updateTimer,1000)
 
